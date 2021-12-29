@@ -14,7 +14,7 @@ If you find our work useful in your research or publication, please cite our wor
 ```
 @article{thanh2021crf,
   title={CRF-EfficientUNet: An Improved UNet Framework for Polyp Segmentation in Colonoscopy Images With Combined Asymmetric Loss Function and CRF-RNN Layer},
-  author={Thanh, Nguyen Chi and Long, Tran Quoc and Le Thi Thu Hong},
+  author={Thanh, Nguyen Chi and Long, Tran Quoc and Hong, Le Thi Thu},
   journal={IEEE Access},
   volume={9},
   pages={156987--157001},
